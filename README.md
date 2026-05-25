@@ -260,15 +260,15 @@ Firestore Database
 
 |          Splash Screen          |             Login              |            Beranda            |
 |:-------------------------------:|:------------------------------:|:-----------------------------:|
-| <img src="assets/screenshots/screen.png" width="120" height="120"/> | <img src="assets/screenshots/login.png" width="120" height="120"/> | !<img src="assets/screenshots/home.png" width="120" height="120"/> |
+| <img src="assets/screenshots/screen.png" width="120" height="266.67"/> | <img src="assets/screenshots/login.png" width="120" height="266.67"/> | !<img src="assets/screenshots/home.png" width="120" height="266.67"/> |
 
 | Jadwal | Diet | Progres |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/jadwal.png" width="120" height="120"/> | <img src="assets/screenshots/diet.png" width="120" height="120"/> | <img src="assets/screenshots/progres.png" width="120" height="120"/> |
+| <img src="assets/screenshots/jadwal.png" width="120" height="266.67"/> | <img src="assets/screenshots/diet.png" width="120" height="266.67"/> | <img src="assets/screenshots/progres.png" width="120" height="266.67"/> |
 
 | Profil | Edit Profil | Reminder |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/profil.png" width="120" height="120"/> | <img src="assets/screenshots/edit.png" width="120" height="120"/> | <img src="assets/screenshots/reminder.png" width="120" height="120"/> |
+| <img src="assets/screenshots/profil.png" width="120" height="266.67"/> | <img src="assets/screenshots/edit.png" width="120" height="266.67"/> | <img src="assets/screenshots/reminder.png" width="120" height="266.67"/> |
 
 
 ---
