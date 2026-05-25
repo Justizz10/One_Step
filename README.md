@@ -260,15 +260,15 @@ Firestore Database
 
 |          Splash Screen          |             Login              |            Beranda            |
 |:-------------------------------:|:------------------------------:|:-----------------------------:|
-| ![splash] (assets/screenshots/splash.png) | ![login] (assets/screenshots/login.png) | ![home] (assets/screenshots/home.png) |
+| <img src="assets/screenshots/screen"/> | <img src="assets/screenshots/login.png"/> | !<img src="assets/screenshots/home.png"/> |
 
 | Jadwal | Diet | Progres |
 |:---:|:---:|:---:|
-| ![jadwal] (assets/screenshots/jadwal.png) | ![diet] (assets/screenshots/diet.png) | ![progres] (assets/screenshots/progres.png) |
+| <img src="assets/screenshots/jadwal.png"/> | <img src="assets/screenshots/diet.png"/> | <img src="assets/screenshots/progres.png"/> |
 
 | Profil | Edit Profil | Reminder |
 |:---:|:---:|:---:|
-| ![profil] (assets/screenshots/profil.png) | ![edit] (assets/screenshots/edit.png) | ![reminder] (assets/screenshots/reminder.png) |
+| <img src="assets/screenshots/profil.png"/> | <img src="assets/screenshots/edit.png"/> | <img src="assets/screenshots/reminder.png"/> |
 
 > **Cara menambahkan screenshot:**
 > 1. Buat folder `screenshots/` di root project
