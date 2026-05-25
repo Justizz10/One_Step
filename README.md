@@ -459,11 +459,13 @@ Internet    : Diperlukan untuk login, sync data, dan Firebase
 
 | Nama | NIM | Role |
 |------|-----|------|
-| **[Nama Mahasiswa]** | [XXXXXXXXXX] | Flutter Developer |
+| **Risda Sifa Hasna** | [24091397054] | UI/UX Designer |
+| **Faizul Kamil** | [24091397045] | Fullstack Developer |
+| **Tafrih Humaidi** | [240913948] | Documentation |
 
-**Program Studi:** Sistem Informasi  
-**Institusi:** [Nama Universitas]  
-**Tahun:** 2025
+**Program Studi:** D4 Manajemen Informatika  
+**Institusi:** Universitas Negeri Surabaya
+**Tahun:** 2026
 
 </div>
 
