@@ -461,7 +461,7 @@ Internet    : Diperlukan untuk login, sync data, dan Firebase
 |------|-----|------|
 | **Risda Sifa Hasna** | [24091397054] | UI/UX Designer |
 | **Faizul Kamil** | [24091397045] | Fullstack Developer |
-| **Tafrih Humaidi** | [240913948] | Documentation |
+| **Tafrih Humaidi** | [24091397048] | Documentation |
 
 **Program Studi:** D4 Manajemen Informatika  
 **Institusi:** Universitas Negeri Surabaya
