@@ -257,11 +257,10 @@ Firestore Database
 
 ## 📱 Screenshot
 
-> *Tambahkan screenshot aplikasi di sini setelah build selesai*
 
-| Splash Screen | Login | Beranda |
-|:---:|:---:|:---:|
-| `[Screenshot]` | `[Screenshot]` | `[Screenshot]` |
+|          Splash Screen          |             Login              |            Beranda            |
+|:-------------------------------:|:------------------------------:|:-----------------------------:|
+| `assets/screenshots/splash.png` | `assets/screenshots/login.png` | `assets/screenshots/home.png` |
 
 | Jadwal | Diet | Progres |
 |:---:|:---:|:---:|
@@ -460,11 +459,13 @@ Internet    : Diperlukan untuk login, sync data, dan Firebase
 
 | Nama | NIM | Role |
 |------|-----|------|
-| **[Nama Mahasiswa]** | [XXXXXXXXXX] | Flutter Developer |
+| **Risda Sifa Hasna** | [24091397054] | UI/UX Designer |
+| **Faizul Kamil** | [24091397045] | Fullstack Developer |
+| **Tafrih Humaidi** | [24091397048] | Documentation |
 
-**Program Studi:** Sistem Informasi  
-**Institusi:** [Nama Universitas]  
-**Tahun:** 2025
+**Program Studi:** D4 Manajemen Informatika  
+**Institusi:** Universitas Negeri Surabaya        
+**Tahun:** 2026
 
 </div>
 
@@ -475,7 +476,7 @@ Internet    : Diperlukan untuk login, sync data, dan Firebase
 ```
 MIT License
 
-Copyright (c) 2025 One-Step Team
+Copyright (c) 2026 One-Step Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -494,7 +495,6 @@ copies or substantial portions of the Software.
 
 **⭐ Jika project ini membantu, berikan bintang di GitHub!**
 
-Made with ❤️ using Flutter & Firebase
 
 *One Way, One Closer — One-Step* 🏃
 

@@ -85,7 +85,15 @@ flutter:
   assets:
     - assets/images/logo.PNG
     - assets/images/logo1.PNG
-
+    - assets/screenshots/diet.png
+    - assets/screenshots/edit.png
+    - assets/screenshots/home.png
+    - assets/screenshots/jadwal.png
+    - assets/screenshots/login.png
+    - assets/screenshots/profil.png
+    - assets/screenshots/progres.png
+    - assets/screenshots/reminder.png
+    - assets/screenshots/screen.png
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
