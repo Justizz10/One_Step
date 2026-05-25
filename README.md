@@ -260,7 +260,7 @@ Firestore Database
 
 |          Splash Screen          |             Login              |            Beranda            |
 |:-------------------------------:|:------------------------------:|:-----------------------------:|
-| <img src="assets/screenshots/screen"/> | <img src="assets/screenshots/login.png"/> | !<img src="assets/screenshots/home.png"/> |
+| <img src="assets/screenshots/screen.png"/> | <img src="assets/screenshots/login.png"/> | !<img src="assets/screenshots/home.png"/> |
 
 | Jadwal | Diet | Progres |
 |:---:|:---:|:---:|
