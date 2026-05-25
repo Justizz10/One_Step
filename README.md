@@ -476,7 +476,7 @@ Internet    : Diperlukan untuk login, sync data, dan Firebase
 ```
 MIT License
 
-Copyright (c) 2025 One-Step Team
+Copyright (c) 2026 One-Step Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -495,7 +495,6 @@ copies or substantial portions of the Software.
 
 **⭐ Jika project ini membantu, berikan bintang di GitHub!**
 
-Made with ❤️ using Flutter & Firebase
 
 *One Way, One Closer — One-Step* 🏃
 
