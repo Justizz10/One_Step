@@ -464,7 +464,7 @@ Internet    : Diperlukan untuk login, sync data, dan Firebase
 | **Tafrih Humaidi** | [24091397048] | Documentation |
 
 **Program Studi:** D4 Manajemen Informatika  
-**Institusi:** Universitas Negeri Surabaya
+**Institusi:** Universitas Negeri Surabaya        
 **Tahun:** 2026
 
 </div>
