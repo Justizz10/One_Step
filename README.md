@@ -257,7 +257,6 @@ Firestore Database
 
 ## 📱 Screenshot
 
-> *Tambahkan screenshot aplikasi di sini setelah build selesai*
 
 | Splash Screen | Login | Beranda |
 |:---:|:---:|:---:|
