@@ -260,23 +260,16 @@ Firestore Database
 
 |          Splash Screen          |             Login              |            Beranda            |
 |:-------------------------------:|:------------------------------:|:-----------------------------:|
-| <img src="assets/screenshots/screen.png"/> | <img src="assets/screenshots/login.png"/> | !<img src="assets/screenshots/home.png"/> |
+| <img src="assets/screenshots/screen.png" width="120" height="120"/> | <img src="assets/screenshots/login.png" width="120" height="120"/> | !<img src="assets/screenshots/home.png" width="120" height="120"/> |
 
 | Jadwal | Diet | Progres |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/jadwal.png"/> | <img src="assets/screenshots/diet.png"/> | <img src="assets/screenshots/progres.png"/> |
+| <img src="assets/screenshots/jadwal.png" width="120" height="120"/> | <img src="assets/screenshots/diet.png" width="120" height="120"/> | <img src="assets/screenshots/progres.png" width="120" height="120"/> |
 
 | Profil | Edit Profil | Reminder |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/profil.png"/> | <img src="assets/screenshots/edit.png"/> | <img src="assets/screenshots/reminder.png"/> |
+| <img src="assets/screenshots/profil.png" width="120" height="120"/> | <img src="assets/screenshots/edit.png" width="120" height="120"/> | <img src="assets/screenshots/reminder.png" width="120" height="120"/> |
 
-> **Cara menambahkan screenshot:**
-> 1. Buat folder `screenshots/` di root project
-> 2. Simpan gambar dengan nama: `splash.png`, `login.png`, dst.
-> 3. Ganti teks `[Screenshot]` di atas dengan:
->    ```markdown
->    ![Nama](screenshots/nama_file.png)
->    ```
 
 ---
 
@@ -432,10 +425,9 @@ flutter test
 
 | Dokumen | Keterangan |
 |---------|-----------|
-| 📄 Proposal Sistem | Tersedia di folder `docs/` |
-| 📋 SRS (Software Requirements Specification) | Tersedia di folder `docs/` |
-| 🗺️ ERD (Entity Relationship Diagram) | `docs/ERD_OneStep.puml` |
-| 🔄 Flow Diagram | `docs/FlowDiagram_OneStep.puml` |
+| 📄 Proposal Sistem | <a href="docs/proposal_one_step.pdf">Proposal One Step</a> |
+| 🗺️ ERD (Entity Relationship Diagram) | <a href="docs/ERD_One-Step.drawio">ERD - One Step</a> |
+| 🔄 Flow Diagram | <a href="docs/flowchart_one-step.drawio">Flowchart - One Step</a> |
 
 ---
 
@@ -453,7 +445,7 @@ Internet    : Diperlukan untuk login, sync data, dan Firebase
 
 ---
 
-## 👨‍💻 Tim Pengembang
+## 👨‍💻 Kelompok - 08
 
 <div align="center">
 
